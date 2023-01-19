@@ -1,0 +1,35 @@
+interim report 1:
+No class has yet been implemented. 
+Only the treble clef and a small unit test for testing it have been added.
+Designs of the graphics of the notes are already in shape.
+Around 5 hrs in total have been spent during this round, mainly on studying the unicode on Scala and drawing the graphics.
+Project started later than planned and about a week behind schedule.
+
+
+report 2:
+For the time being,the following is added and updated:
+- Traits source_code.Accidental, source_code.Note, and source_code.TimeSignature
+- Classes source_code.WholeNote and source_code.CommonTime
+- Classes source_code.TrebleClef, source_code.Measure, and source_code.Piece
+
+At the current state, it is possible to add and combine different whole notes into a simple piece(e.g. twinkle twinkle little star)
+source_code.Measure can read and combine a bunch of source_code.Note into a measure, while later source_code.Piece can assemble the measures and attach the treble clef
+and time signature to the front.
+One main problem to solve at this point is that creating source_code.Note's and source_code.Measure's and putting them into source_code.Piece is very inconvenient.
+
+Estimated workload: 17 hrs
+Progess: a bit lagged behind
+
+report 3:
+- I've changed the data structure and modified the relations between classes. I've decided to use collections of String instead 
+  of Char. After some thinking on how to implement th UI, class measure was replaced (renamed) with Row, which contains one row
+  in a sheet of music. 
+- Accordingly, three unit tests have been written for classes Note, Row, and Piece, each for the purpose of demonstrating the printed
+  output of their functionalities. 
+- The next stages are implementation of the UI, after which more note types, i.e. more classes extending Note, will be added, and also
+  figuring out a way to read and write files.
+- One main problem encountered during this period is finding a convenient way of passing information between different classes. This is 
+  the reason why I've decided to restructure some of the classes. Another concern is the efficiency of my program.
+
+Estimated workload: 15 hrs
+Progress: tight schedule ahead orz

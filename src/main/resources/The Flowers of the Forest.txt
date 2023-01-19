@@ -1,0 +1,13 @@
+T: The flowers of the Forest
+C: anon.
+K: G
+M: 4/4
+L: 1/16
+G4 G2,G2 A2 B2,d2,e2 | d2,B2 A2,G2 E4 D2,G2 |
+w:
+G4 G2,G2 A2 B2,d2,e2 | d2,B2 A3 G1 G6 D2 |
+w:
+D2,E2,=F2,F2 E2,F2 G4 | D4 B2 A2 G2,E2,D2,D2 | D4 E2,G2 g4 d2,B2 | A6 B1 A1 G8 |
+w: There -fore to the flo- wers of the forest
+
+Reference:https://abcnotation.com/tunePage?a=trillian.mit.edu/~jc/music/abc/mirror/musicaviva.com/scotland/flowers-of-the-forest/0000

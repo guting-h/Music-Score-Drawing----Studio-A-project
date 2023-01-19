@@ -1,0 +1,26 @@
+
+T: Air on G String_for violin
+C: J.S.Bach_arranged by Banuwarsa
+K: D
+M: 4/4
+L: 1/16
+f16 | f16 | f4 b2,g2 e2,d2,c2,d2 |
+w: 
+c6 d2 A8 | a16 | a2,f2 =c2,d2 e2,^d2 a2,g2 |
+w: 
+g16 | g2,e2 B2,A2 d2,c2 g2,f2 | f6 ^g2,a2 |
+w: 
+d4 e2,f2 f2,e2,e2,d2 | c2,B2,B2,c2 d4 c2,B2 | A16 |
+w: 
+f16 | f'16 | f4 b2,g2 e2,d2,c2,d2 |
+w: 
+c6 B2 A8 | a16 | a2,f2 =c2,B2 e2,^d2 a2,g2 |
+w: 
+g16 | g2,e2 B2,A2 d2,c2 g2,f2 | f6 ^g2,a2 |
+w: 
+d4 e2,f2 f2,e2,e2,d2 | c2,B2,B2,c2 d4 c2,B2 | A16 |
+w: 
+c8 c2,c2,B2,A2 | a12 =c4 | B4 b4 b2,a2,g2,f2 |
+
+Comment: this file contains some small errors here and there, for example, the lyric section on the last line is missing
+Reference: https://musescore.com/user/5402316/scores/4818780

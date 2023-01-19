@@ -1,0 +1,147 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "music-score-drawing_masterpiece",
+        "directory": "/Users/gutinghuang/Documents/Completed Courses/CS-C2105 Programming Studio A/Music Score Drawing_masterpiece",
+        "workspaceDir": "/Users/gutinghuang/Documents/Completed Courses/CS-C2105 Programming Studio A/Music Score Drawing_masterpiece",
+        "sources": [
+            "/Users/gutinghuang/Documents/Completed Courses/CS-C2105 Programming Studio A/Music Score Drawing_masterpiece/src/main/scala",
+            "/Users/gutinghuang/Documents/Completed Courses/CS-C2105 Programming Studio A/Music Score Drawing_masterpiece/src/main/scala-2.13",
+            "/Users/gutinghuang/Documents/Completed Courses/CS-C2105 Programming Studio A/Music Score Drawing_masterpiece/src/main/scala-2",
+            "/Users/gutinghuang/Documents/Completed Courses/CS-C2105 Programming Studio A/Music Score Drawing_masterpiece/src/main/java",
+            "/Users/gutinghuang/Documents/Completed Courses/CS-C2105 Programming Studio A/Music Score Drawing_masterpiece/target/scala-2.13/src_managed/main"
+        ],
+        "dependencies": [
+            
+        ],
+        "classpath": [
+            "/Users/gutinghuang/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.5/scala-library-2.13.5.jar"
+        ],
+        "out": "/Users/gutinghuang/Documents/Completed Courses/CS-C2105 Programming Studio A/Music Score Drawing_masterpiece/.bloop/music-score-drawing_masterpiece",
+        "classesDir": "/Users/gutinghuang/Documents/Completed Courses/CS-C2105 Programming Studio A/Music Score Drawing_masterpiece/.bloop/music-score-drawing_masterpiece/scala-2.13/classes",
+        "resources": [
+            "/Users/gutinghuang/Documents/Completed Courses/CS-C2105 Programming Studio A/Music Score Drawing_masterpiece/src/main/resources",
+            "/Users/gutinghuang/Documents/Completed Courses/CS-C2105 Programming Studio A/Music Score Drawing_masterpiece/target/scala-2.13/resource_managed/main"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "2.13.5",
+            "options": [
+                
+            ],
+            "jars": [
+                "/Users/gutinghuang/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-compiler/2.13.5/scala-compiler-2.13.5.jar",
+                "/Users/gutinghuang/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.5/scala-library-2.13.5.jar",
+                "/Users/gutinghuang/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.13.5/scala-reflect-2.13.5.jar",
+                "/Users/gutinghuang/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/jline/jline/3.19.0/jline-3.19.0.jar",
+                "/Users/gutinghuang/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar"
+            ],
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": true,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": true,
+                "filterLibraryFromClasspath": true
+            }
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "jvm",
+            "config": {
+                "home": "/Users/gutinghuang/Library/Java/JavaVirtualMachines/corretto-17.0.4.1/Contents/Home",
+                "options": [
+                    "-Duser.dir=/Users/gutinghuang/Documents/Completed Courses/CS-C2105 Programming Studio A/Music Score Drawing_masterpiece"
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.5",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "/Users/gutinghuang/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.5/scala-library-2.13.5.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "/Users/gutinghuang/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.5/scala-library-2.13.5-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.5",
+                    "configurations": "optional",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "/Users/gutinghuang/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.5/scala-library-2.13.5.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "/Users/gutinghuang/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.5/scala-library-2.13.5-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "library"
+        ]
+    }
+}
